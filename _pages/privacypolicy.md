@@ -6,60 +6,62 @@ include_in_header: false
 
 # Privacy Policy
 
-This privacy policy applies to the Calm Now (hereby referred to as "Application") for mobile devices that was created by Mateusz Byrtus (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the FiveDone application (hereby referred to as "Application") for mobile devices that was created by Mateusz Byrtus (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 
-The Application collects information when you download and use it. This information may include information such as:
+The Application collects information when you download and use it. This information may include details such as:
 
-- Your device's Internet Protocol address (e.g. IP address)
-- The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-- The time spent on the Application
+- Your device's Internet Protocol address (e.g., IP address)
+- The pages of the Application that you visit, the time and date of your visit, and the time spent on those pages
+- The total time spent using the Application
 - The operating system you use on your mobile device
 
-The Application does not gather precise information about the location of your mobile device.
+The Application does **not** gather precise information about the location of your mobile device.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices, and marketing promotions.
+For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information requested will be retained and used as described in this Privacy Policy.
 
-For a better experience, while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information that the Service Provider requests will be retained by them and used as described in this privacy policy.
+The Service Provider may also use information you provide to contact you from time to time with important notices, required updates, or relevant information related to the Application.
 
 ## Third Party Access
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Only aggregated, anonymized data is periodically transmitted to external services to help the Service Provider improve the Application and its functionality. The Service Provider may share your information with third parties as described in this Privacy Policy.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
-- as required by law, such as to comply with a subpoena, or similar legal process;
+- as required by law, such as to comply with a subpoena or similar legal process;
 - when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-- with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- with trusted service providers who work on the Service Provider’s behalf, do not have independent use of the information disclosed to them, and have agreed to adhere to the rules set forth in this Privacy Policy.
 
 ## Opt-Out Rights
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all collection of information by the Application by uninstalling it. You may use the standard uninstall processes available as part of your mobile device or through the mobile application marketplace or network.
 
 ## Data Retention Policy
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at mateusz.byrtus@icloud.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable period afterward. If you would like the Service Provider to delete User Provided Data submitted through the Application, please contact mateusz.byrtus@icloud.com, and the Service Provider will respond within a reasonable time.
 
 ## Children
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (mateusz.byrtus@icloud.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+The Service Provider does not knowingly collect personally identifiable information from children. They encourage all children to never submit personally identifiable information through the Application or Services. The Service Provider urges parents and guardians to monitor their children's internet usage and help enforce this policy by instructing them never to provide personal information through the Application or Services without permission.
+
+If you believe that a child has provided personally identifiable information through the Application, please contact the Service Provider at mateusz.byrtus@icloud.com so that appropriate action may be taken. You must be at least 16 years old to consent to the processing of your personally identifiable information in your country (in some countries, parents or guardians may provide consent on your behalf).
 
 ## Security
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider is committed to safeguarding the confidentiality of your information. They provide physical, electronic, and procedural safeguards to protect the information processed and maintained.
 
 ## Changes
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time. The Service Provider will notify you of any changes by updating this document. You are advised to review this Privacy Policy periodically for changes, as continued use of the Application constitutes acceptance of the revised policy.
 
-This privacy policy is effective as of 2024-10-18.
+This Privacy Policy is effective as of 2024-10-18.
 
 ## Your Consent
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+By using the Application, you consent to the processing of your information as described in this Privacy Policy, now and as amended.
 
 ## Contact Us
 

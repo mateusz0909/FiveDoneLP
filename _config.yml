@@ -1,22 +1,21 @@
+---
 #page title
-page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: FiveDone – Win Your Day
 
 # App Info
-ios_app_id: 6751507698 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country: pl # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id: 6751507698
+ios_app_country: pl
 
-appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link: # Enter Google Play Store URL.
+appstore_link:
+playstore_link:
 presskit_download_link:
-# Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
-# Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Personalized box breathing for a peaceful mind.
+app_icon: assets/appicon.png
+app_name: FiveDone
+app_price:
+app_description: Win your day with five critical tasks that drive real progress. Simple daily discipline that builds momentum.
 
-enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner: true
 
 # Information About Yourself
 your_name: Mateusz Byrtus
@@ -30,66 +29,58 @@ github_username: mateusz0909
 youtube_username:
 mastodon_link:
 
-# Feature List
+# Feature List (Updated for FiveDone)
 features:
-  - title: Guided Box Breathing
-    description: Follow a proven four-step breathing cycle (inhale, hold, exhale, hold) with on-screen cues and customizable timings.
-    fontawesome_icon_name: calendar-check
+  - title: Plan Today’s Five
+    description: Set the five critical tasks that matter most—no busywork, no endless lists.
+    fontawesome_icon_name: list-check
 
-  - title: Haptic & Audio Feedback
-    description: Feel each breath with gentle haptic pulses and optional nature or music soundtracks for deeper immersion.
-    fontawesome_icon_name: heartbeat
+  - title: Win the Day
+    description: Check off your tasks one by one and earn a daily win when all five are completed.
+    fontawesome_icon_name: trophy
 
-  - title: Custom Session Templates
-    description: Save your favorite session settings—breath counts, hold durations, and audio mix—for one-tap repeatability.
-    fontawesome_icon_name: save
+  - title: Habit Automation
+    description: Separate habits from tasks—repeating habits auto-populate so your list stays sharp.
+    fontawesome_icon_name: repeat
 
-  - title: Apple Watch Sync
-    description: Bring guided breathing on your wrist—start, pause, and track sessions right from your Apple Watch.
-    fontawesome_icon_name: watch
+  - title: Plan Tomorrow Early
+    description: Set tomorrow’s five while you’re still in momentum and stay focused for the next day.
+    fontawesome_icon_name: calendar-plus
 
-  - title: HealthKit Integration
-    description: Log sessions automatically in HealthKit to track mindful minutes and view breathing metrics alongside other health data.
-    fontawesome_icon_name: apple
+  - title: Streaks & Progress
+    description: Track wins, streaks, and daily consistency to build long-term discipline.
+    fontawesome_icon_name: chart-line
 
-  - title: Daily Reminders & Streaks
-    description: Set custom notifications to build a consistent practice and earn streak badges as motivation.
+  - title: Smart Nudges
+    description: Get helpful, streak-aware reminders that push you forward without overwhelming you.
     fontawesome_icon_name: bell
 
-  - title: Dark & Light Themes
-    description: Match your mood or system appearance with beautiful light and dark color schemes for distraction-free sessions.
-    fontawesome_icon_name: adjust
+  - title: Home Screen Widget
+    description: Check off today’s tasks instantly right from your Home Screen widget.
+    fontawesome_icon_name: mobile-alt
 
-  - title: Favorites & Quick Launch
-    description: Bookmark your go-to sessions for instant access from the home screen or widget.
-    fontawesome_icon_name: star
+  - title: Quiet Day Notes
+    description: Reflect on your day with distraction-free notes stored privately on your device.
+    fontawesome_icon_name: pen
 
-  - title: Sleep & Relaxation Mode
-    description: Wind down with extended exhale emphasis, soothing background audio, and gentle screen dimming for bedtime routines.
-    fontawesome_icon_name: moon
+  - title: Minimal & Focused Design
+    description: A clean interface designed to keep you focused on the five things that truly matter.
+    fontawesome_icon_name: eye
 
-  - title: Multi-Voice Narration
-    description: Choose from diverse guided voice packs—male, female, whisper, or nature ambient narrators—for a personalized experience.
-    fontawesome_icon_name: users
-
-  - title: Offline & Low-Connectivity Support
-    description: All core breathing sessions and premium audio tracks are stored on device for uninterrupted practice anywhere.
+  - title: Offline First
+    description: Your tasks, habits, and notes all work seamlessly without an internet connection.
     fontawesome_icon_name: wifi-slash
-
-  - title: Progress Dashboard
-    description: Visualize weekly and monthly trends in session frequency, duration, and breathing consistency to stay on track.
-    fontawesome_icon_name: chart-
 
 # Theme Settings
 topbar_color: "#000000"
 topbar_transparency: 0.1
 topbar_title_color: "#ffffff"
 
-cover_image: assets/headerimage.png # Replace with alternative image path or image URL.
+cover_image: assets/headerimage.png
 cover_overlay_color: "#363b3d"
 cover_overlay_transparency: 0.8
 
-device_color: black # Set to: blue, black, yellow, coral or white.
+device_color: black
 
 body_background_color: "#ffffff"
 
@@ -110,13 +101,14 @@ social_icons_background_color: "#e6e6e6"
 
 footer_text_color: "#666666"
 
+
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
 ####################################################
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  style: compressed # You might prefer to minify using :compressed
 
 # Exclude these files from your production _site
 exclude:
