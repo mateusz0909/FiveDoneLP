@@ -33,7 +33,7 @@ mastodon_link:
 features:
   - title: Plan Today’s Five
     description: Set the five critical tasks that matter most—no busywork, no endless lists.
-    fontawesome_icon_name: list-check
+    fontawesome_icon_name: tasks
 
   - title: Win the Day
     description: Check off your tasks one by one and earn a daily win when all five are completed.
@@ -41,7 +41,7 @@ features:
 
   - title: Habit Automation
     description: Separate habits from tasks—repeating habits auto-populate so your list stays sharp.
-    fontawesome_icon_name: repeat
+    fontawesome_icon_name: sync
 
   - title: Plan Tomorrow Early
     description: Set tomorrow’s five while you’re still in momentum and stay focused for the next day.
@@ -69,7 +69,7 @@ features:
 
   - title: Offline First
     description: Your tasks, habits, and notes all work seamlessly without an internet connection.
-    fontawesome_icon_name: wifi-slash
+    fontawesome_icon_name: cloud-download-alt
 
 # Theme Settings
 topbar_color: "#000000"
